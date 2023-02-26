@@ -3,6 +3,8 @@
 	"author": "Aleph Sai",
 	"description": "Initial attempt at creating a Node.js program",
 	"keywords": ["freecodecamp", "catboys", "image-generation"],
+	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
